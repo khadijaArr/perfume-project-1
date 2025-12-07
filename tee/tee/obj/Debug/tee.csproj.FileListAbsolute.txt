@@ -1,0 +1,10 @@
+C:\Users\MaiSan\Downloads\c#\tee\tee\bin\Debug\tee.exe.config
+C:\Users\MaiSan\Downloads\c#\tee\tee\bin\Debug\tee.exe
+C:\Users\MaiSan\Downloads\c#\tee\tee\bin\Debug\tee.pdb
+C:\Users\MaiSan\Downloads\c#\tee\tee\obj\Debug\tee.csproj.AssemblyReference.cache
+C:\Users\MaiSan\Downloads\c#\tee\tee\obj\Debug\tee.Form1.resources
+C:\Users\MaiSan\Downloads\c#\tee\tee\obj\Debug\tee.Properties.Resources.resources
+C:\Users\MaiSan\Downloads\c#\tee\tee\obj\Debug\tee.csproj.GenerateResource.cache
+C:\Users\MaiSan\Downloads\c#\tee\tee\obj\Debug\tee.csproj.CoreCompileInputs.cache
+C:\Users\MaiSan\Downloads\c#\tee\tee\obj\Debug\tee.exe
+C:\Users\MaiSan\Downloads\c#\tee\tee\obj\Debug\tee.pdb
