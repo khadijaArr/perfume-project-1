@@ -83,5 +83,8 @@
   <ItemGroup>
     <None Include="Resources\88U.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ai-generated-modern-glass-perfume-bottle-with-peony-flowers-on-empty-pale-pink-background-theme-a-wide-banner-with-copy-space-area-photo.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
