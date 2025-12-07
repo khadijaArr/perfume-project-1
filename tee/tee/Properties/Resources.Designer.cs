@@ -79,5 +79,16 @@ namespace tee.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ai_generated_modern_glass_perfume_bottle_with_peony_flowers_on_empty_pale_pink_background_theme_a_wide_banner_with_copy_space_area_photo {
+            get {
+                object obj = ResourceManager.GetObject("ai-generated-modern-glass-perfume-bottle-with-peony-flowers-on-empty-pale-pink-ba" +
+                        "ckground-theme-a-wide-banner-with-copy-space-area-photo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
